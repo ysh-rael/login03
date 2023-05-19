@@ -1,0 +1,15 @@
+.dark .Modal_default {
+    background-color: #f8f8f81c;
+    color: #8f8f8f;
+}
+.dark .Modal_default .box {
+    background-color: #141720;
+    box-shadow: 1px 1px 8px #00000066;
+
+}
+.dark .Modal_default .box label, .dark .Modal_default .box input {
+    color: #8f8f8f;
+}
+.dark .Modal_default .box input {
+    border-bottom-color: #8f8f8f;
+}

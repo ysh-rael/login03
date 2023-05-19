@@ -1,0 +1,19 @@
+
+.light .Inpt-default input {
+    color: #242424;
+    border-bottom: 1px solid #242424;
+    background-color: #5184863b;
+    border-radius: 0 10px;
+}
+.light .Inpt-default label {
+  color: #434343;
+}
+.light .Inpt-default input:focus {
+ border-bottom: .12rem solid #03e9f4;
+}
+.light .Inpt-default input:focus ~ label, .light .no-empty  {
+  color: #003e41 !important;
+}
+.light .Inpt-default input:invalid ~ label {
+  color: #f45b03 !important;
+}

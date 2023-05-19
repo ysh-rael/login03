@@ -1,0 +1,31 @@
+.dark .bttn-neon {
+    color: #03e9f4;
+}
+.dark .bttn-neon:hover {
+    background: #03e9f4;
+    color: #050801;
+    box-shadow: 0 0 5px #03e9f4,
+      0 0 25px #03e9f4,
+      0 0 50px #03e9f4,
+      0 0 200px #03e9f4
+}
+.dark .bttn-neon:active {
+    background: #518486;
+    color: #050801;
+    box-shadow: 0 0 5px #518486,
+      0 0 25px #518486,
+      0 0 50px #518486,
+      0 0 200px #518486
+}
+.dark .bttn-neon > .top {
+    background: linear-gradient(90deg, transparent, #03e9f4);
+}
+.dark .bttn-neon > .right {
+    background: linear-gradient(180deg, transparent, #03e9f4);
+}
+.dark .bttn-neon > .bottom {
+    background: linear-gradient(270deg, transparent, #03e9f4);
+}
+.dark .bttn-neon > .left {
+    background: linear-gradient(360deg, transparent, #03e9f4);
+}

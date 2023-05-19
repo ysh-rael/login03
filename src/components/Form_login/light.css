@@ -1,0 +1,15 @@
+.light .Form_login div.title {
+    color: #518486;
+}
+.light .Form_login small a {
+    text-decoration: none;
+}
+.light .Form_login small a {
+    color: #66666666;
+}
+.light .Form_login small a:hover {
+    color: #666666;
+}
+.light .Form_login .label-checkbox {
+    color: #666666;
+}

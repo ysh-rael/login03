@@ -1,0 +1,15 @@
+.Bttn_close {
+    display: flex;
+    justify-content: end;
+    position: relative;
+}
+.Bttn_close img {
+    z-index: 22;
+    width: 16px;
+    margin-right: -.5rem;
+    margin-bottom: -.5rem;
+}
+.Bttn_close img:hover {
+    transform: scale(1.16);
+    transition-duration: 400ms;
+}

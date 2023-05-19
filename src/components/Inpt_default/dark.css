@@ -1,0 +1,16 @@
+.dark .Inpt-default input {
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+.dark .Inpt-default label {
+  color: #fff;
+}
+.dark .Inpt-default input:focus {
+  border-bottom: .12rem solid #03e9f4;
+}
+.dark .Inpt-default input:focus ~ label, .dark .no-empty  {
+  color: #03e9f4 !important;
+}
+.dark .Inpt-default input:invalid ~ label {
+  color: #f45b03 !important;
+}

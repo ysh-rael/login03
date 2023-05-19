@@ -1,0 +1,8 @@
+.light .Modal_default {
+    background-color: #00000066;
+}
+
+.light .Modal_default .box {
+    background-color: #f8f8f8;
+    box-shadow: 1px 1px 8px #00000066;
+}
